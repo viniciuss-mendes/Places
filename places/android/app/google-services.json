@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604250960676",
+    "project_id": "placestoremember2021",
+    "storage_bucket": "placestoremember2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604250960676:android:9ce65bfb87f0e7af9c79b1",
+        "android_client_info": {
+          "package_name": "pucminas.com.br.places"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604250960676-9o00qu9jutafl5h4j7sop42gqcb5dc4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB62WOjLhZr2jkMlJOYtYX2zOwRMhKfUWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604250960676-9o00qu9jutafl5h4j7sop42gqcb5dc4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
